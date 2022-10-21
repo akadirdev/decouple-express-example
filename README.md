@@ -1,6 +1,6 @@
 # decouple-express-example
 
-Decouple.js Implementation Example with Express.js
+[Decouple.js](https://www.npmjs.com/package/@decouplejs/core) Implementation Example with [Express.js](https://www.npmjs.com/package/express)
 
 To start the application:
 `npm run start`
